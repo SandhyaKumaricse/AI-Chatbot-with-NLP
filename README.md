@@ -58,3 +58,8 @@ This chatbot is terminal-based, lightweight, and entirely rule-driven, making it
 ---
 
 This task helped solidify core NLP concepts like lemmatization and tokenization and demonstrated how even basic techniques can create useful conversational agents. It's a foundational stepping stone toward more complex chatbot systems.
+
+---
+# OUTPUT
+<img width="1919" height="1017" alt="Image" src="https://github.com/user-attachments/assets/05d2f9cc-cf37-443e-af86-fadb96a1b98d" />
+
