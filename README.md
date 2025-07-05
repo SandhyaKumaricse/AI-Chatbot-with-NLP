@@ -1,5 +1,19 @@
 #  Task 3 - AI Chatbot with Natural Language Processing
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: SANDHYA KUMARI
+
+*INTERN ID*: CT04DF659
+
+*DOMAIN*: PYTHON PROGRAMMING
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+---
+
 ## 📄 Description
 
 This task involved creating a basic **AI chatbot** that uses **Natural Language Processing (NLP)** to understand and respond to user queries. The goal was to build a rule-based conversational agent using Python and NLP libraries like **NLTK** or **spaCy**, without incorporating any external AI models or advanced machine learning.
